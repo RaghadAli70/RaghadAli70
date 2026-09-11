@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./a_clean_modern_minimal_tech_themed_welcome_bann.png" width="100%">
+  <img src="Image%2011.png" width="100%" alt="Raghad GitHub Banner">
 </p>
 
 <h2 align="center">Hi, I'm Raghad 👋</h2>
